@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://crashger.github.io/sitemap_CfK.txt.gz
+Sitemap: https://crashger.github.io/sitemap_CtpK.txt.gz
+Sitemap: https://crashger.github.io/sitemap_Rhnob.txt.gz
+Sitemap: https://crashger.github.io/sitemap_RlUY.txt.gz
+Sitemap: https://crashger.github.io/sitemap_RmJQ.txt.gz
+Sitemap: https://crashger.github.io/sitemap_bVGnl.txt.gz
+Sitemap: https://crashger.github.io/sitemap_bVku.txt.gz
+Sitemap: https://crashger.github.io/sitemap_cDxqV.txt.gz
+Sitemap: https://crashger.github.io/sitemap_kWY.txt.gz
+Sitemap: https://crashger.github.io/sitemap_rzSx.txt.gz
+Sitemap: https://crashger.github.io/sitemap_vcL.txt.gz
